@@ -1,0 +1,34 @@
+{
+  "identification_types": [
+    {
+      "id": "01",
+      "name": "Cedula de ciudadania"
+    },
+    {
+      "id": "02",
+      "name": "Cedula de extranjeria"
+    },
+    {
+      "id": "03",
+      "name": "Pasaporte"
+    },
+    {
+      "id": "04",
+      "name": "Tarjeta identidad"
+    }
+  ],
+  "users": [
+    {
+      "id": "1002875313",
+      "firstname": "Walter",
+      "lastname": "Ramírez  ",
+      "age": "27",
+      "country": "Colombia",
+      "city": "Medellín",
+      "identification_type": "01",
+      "email": "walterz@gmail.com",
+      "password": "prueba",
+      "type_user": "Cliente"
+    }
+  ]
+}

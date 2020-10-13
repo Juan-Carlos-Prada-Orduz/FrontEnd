@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar dense color = "#343a40">
+    <v-app-bar app dense color = "#343a40">
 
     <v-toolbar-title id="title">AGRO</v-toolbar-title>
 
