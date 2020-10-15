@@ -18,17 +18,5 @@
     }
   ],
   "users": [
-    {
-      "id": "1002875313",
-      "firstname": "Walter",
-      "lastname": "Ramírez  ",
-      "age": "27",
-      "country": "Colombia",
-      "city": "Medellín",
-      "identification_type": "01",
-      "email": "walterz@gmail.com",
-      "password": "prueba",
-      "type_user": "Cliente"
-    }
   ]
 }

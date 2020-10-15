@@ -15,7 +15,7 @@ $ npm run start
 
 # generate static project
 $ npm run generate
-```
+
 # install library sweetalert2
 $ npm install nuxt-sweetalert2
 
@@ -24,5 +24,5 @@ $ npm install -g json-server
 
 # install library axios for nuxt.js
 $ npm i @nuxtjs/axios
-
+```
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).

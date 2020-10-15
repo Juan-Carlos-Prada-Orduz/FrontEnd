@@ -46,6 +46,7 @@ export default {
         { id: "01", title: "home", icon: "mdi-cart", route: "/home", name:"Inicio"},
         { id: "02", title: "login", icon: "mdi-login-variant", route: "/login", name:"Iniciar Sesion"},
         { id: "03", title: "register", icon: "mdi-account", route: "/user-register", name:"Registro"},
+        { id: "04", title: "product", icon: "mdi-store", route: "/products", name:"Productos"},
       ],
     };
   },

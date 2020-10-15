@@ -3,7 +3,7 @@
     <center>
       <v-form ref="formRegister" v-model="formRegister" lazy-validation>
    
-        <h1 color="primary">Crea cuenta</h1>
+        <h1>Crea cuenta</h1>
       
         <v-col cols="12" md="4">
           <v-text-field
@@ -163,6 +163,7 @@
 
 <script>
   export default {
+    layout:"default-register",
     name: "RegisterPage",
     beforeMount() {
       this.loadPage();

@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "run-json-server": "json-server --watch assets/users.json --port 3004",
+    "run-json-users": "json-server --watch assets/users.json --port 3004",
+    "run-json-products" : "json-server --watch assets/products.json --port 3004",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate"
