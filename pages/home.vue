@@ -2,7 +2,7 @@
   <v-app>
     <center>
 <v-form ref="formVentas" v-model="formVentas" lazy-validation>
-
+    <!--home-->
     <v-col cols="12" md="4">
           <v-text-field
             v-model="sale.id"
